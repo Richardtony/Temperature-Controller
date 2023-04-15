@@ -1,5 +1,5 @@
 # Temperature-Controller
-An IoT and PID based Temperature controller using arduino UNO and ESP8266 which controls the temperature according to the set value determined via the app and uses PID algorithm to control the temperature at the desired set value. The APP has been created using the MIT APP Inventor and the cloud platform used to read and write data from and to the ESP8266 is the Thingspeak cloud platform.
+An IoT and PID based Temperature controller using arduino UNO and ESP8266 which controls the temperature according to the set value determined via the app and uses PID algorithm to control the temperature at the desired set value. The APP has been created using the MIT APP Inventor and the cloud platform used to read and write data to and from the ESP8266 is the Thingspeak cloud platform.
 
 The ControlIoT contains the Arduino Side of the program while The nodemcu contains the ESP8266 side of the Program
 
